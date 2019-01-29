@@ -11,7 +11,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-sanity',
       options: {
-        projectId,
+        projectId: 'vultjyiy',
         dataset,
         // To enable preview of drafts, copy .env-example into .env,
         // and add a token with read permissions
